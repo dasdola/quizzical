@@ -142,7 +142,7 @@ Contributions, issues and feature requests are welcome!
 
 - GitHub: [@dasdola](https://github.com/dasdola)
 - LinkedIn: [your-profile](https://www.linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- Email: dasdola007@gmail.com
 
 ---
 
