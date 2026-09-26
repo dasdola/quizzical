@@ -141,7 +141,7 @@ Contributions, issues and feature requests are welcome!
 **Sathi Das (Dola)**
 
 - GitHub: [@dasdola](https://github.com/dasdola)
-- LinkedIn: [Dola Das](https://www.linkedin.com/in/Dola Das)
+- LinkedIn: [Dola Das](https://www.linkedin.com/in/Dola_Das)
 - Email: dasdola007@gmail.com
 
 ---
